@@ -7,5 +7,4 @@
 - Python- ***Beginner***
 - Javascript *(HTML + CSS)*-***Beginner***
 ## Contact
-- Potatox#2680-***Discord***
 - <a href="https://www.potatox.tk/">My Website </a>
