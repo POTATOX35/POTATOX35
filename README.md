@@ -6,6 +6,7 @@
 ## Languages
 - Python- ***Beginner***
 - Javascript *(HTML + CSS)*-***Beginner***
+- Node Js ***Beginner***
 ## Contact
-- <a href="https://www.potatox.tk/">My Website </a>
+- <a href="https://potatoxyazilar.glitch.me">My Blog(Its not active 7/24)</a>
 - Discord: *potatox35*
