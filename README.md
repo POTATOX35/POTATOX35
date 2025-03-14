@@ -3,6 +3,7 @@
 - I’m interested in Programming
 - Also i'm interested about 3D Modelling, Rendering on Blender
 - My native language is ***Turkish***, I can understand ***English***
+- Also, it is an honor for me to be friends with ***@OnlyKemal***
 ## Languages
 - **Python** *Beginner*
 - **Javascript (HTML,CSS)** *Beginner*
