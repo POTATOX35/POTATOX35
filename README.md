@@ -5,7 +5,7 @@
 - My native language is ***Turkish***, I can understand ***English***
 ## Languages
 - **Python** *Beginner*
-- **Javascript(HTML,CSS)** *Beginner*
+- **Javascript (HTML,CSS)** *Beginner*
 - **Node Js** *Beginner*
 ## Contact
 - <a href="https://potatoxyazilar.glitch.me">My Blog(Its not active 7/24)</a>
